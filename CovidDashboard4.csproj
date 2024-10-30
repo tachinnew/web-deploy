@@ -110,7 +110,8 @@
     <Content Include="files\_all-skins.min.css" />
     <Content Include="fonts\fontawesome-webfont.svg" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="index.html" />
+    <Content Include="Dashboard.html" />
+    <Content Include="Index.html" />
     <Content Include="index.js" />
     <Content Include="Web.config" />
   </ItemGroup>
